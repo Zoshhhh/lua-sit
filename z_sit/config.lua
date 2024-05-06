@@ -132,8 +132,8 @@ Config.Objects = {
 }
 
 Config.Texts = {
-    ["use"] = "Sit/Lay on it",
-    ["already_sit"] = "You're already sit on something!",
-    ["seat_taken"] = "This seat is not free!",
-    ["get_up"] = "Press ~INPUT_VEH_DUCK~ to get up"
+	["use"] = "Assis/Allongé dessus",
+	["already_sit"] = "Vous êtes déjà assis sur quelque chose !",
+	["seat_taken"] = "Cette place n'est pas libre !",
+	["get_up"] = "Appuyez sur ~INPUT_VEH_DUCK~ pour vous lever"
 }
