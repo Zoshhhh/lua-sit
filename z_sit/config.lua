@@ -130,7 +130,7 @@ Config.Objects = {
 	[`prop_roller_car_02`]		= { type = "sit", offsets = vector3(0.0, 0.0, 0.5), heading = 180.0},
 	[`prop_hobo_seat_01`]		= { type = "sit", offsets = vector3(0.0, 0.0, 0.65), heading = 180.0},
 }
-
+--
 Config.Texts = {
 	["use"] = "Assis/Allongé dessus",
 	["already_sit"] = "Vous êtes déjà assis sur quelque chose !",
