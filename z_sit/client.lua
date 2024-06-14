@@ -129,3 +129,11 @@ function IsSeatFree(objcoords, animobj)
     end
     return true 
 end
+
+
+-- Fonction pour afficher le texte d'aide
+function DisplayHelpTextThisFrame(text, loop)
+    SetTextComponentFormat('STRING')
+    AddTextComponentString(help)
+    DisplayHelpTextFromStringLabel(0, loop, false, -1)
+end

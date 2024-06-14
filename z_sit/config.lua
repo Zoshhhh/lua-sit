@@ -136,4 +136,6 @@ Config.Texts = {
 	["already_sit"] = "Vous êtes déjà assis sur quelque chose !",
 	["seat_taken"] = "Cette place n'est pas libre !",
 	["get_up"] = "Appuyez sur ~INPUT_VEH_DUCK~ pour vous lever"
+	["no_target"] = "Il n'y a pas de système de ciblage pris en charge (ox_target ou qb-target) !"
+	["help"] = "Appuyez sur ~INPUT_CONTEXT~ pour vous asseoir"
 }
